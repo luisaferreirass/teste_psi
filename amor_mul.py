@@ -1,5 +1,5 @@
 import streamlit as st
-from perguntas import perguntas_mul
+from perguntas import perguntas_fem
 
 LINGUAGENS = {
     "A": "💬 Palavras de Afirmação",
@@ -31,10 +31,10 @@ st.divider()
 # ── Perguntas ─────────────────────────────────────────────────────────────────
 respostas_selecionadas = []
 
-for i, pergunta in enumerate(perguntas_mul):
+for i, pergunta in enumerate(perguntas_fem):
     opcoes_texto = list(pergunta.keys())
 
-    st.markdown(f"**{i + 1} de {len(perguntas_mul)}**")
+    st.markdown(f"**{i + 1} de {len(perguntas_fem)}**")
     escolha = st.radio(
         label=f"pergunta_{i}",
         options=opcoes_texto,
@@ -48,7 +48,7 @@ for i, pergunta in enumerate(perguntas_mul):
 
 # ── Botão ─────────────────────────────────────────────────────────────────────
 respondidas = sum(1 for r in respostas_selecionadas if r is not None)
-total = len(perguntas_mul)
+total = len(perguntas_fem)
 
 st.markdown(f"Respondidas: **{respondidas} / {total}**")
 
