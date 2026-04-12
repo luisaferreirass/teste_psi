@@ -442,3 +442,127 @@ perguntas_temp = [
     "231. Piadista",
     "232. Caseiro"
 ]
+
+perguntas_geral = [
+    {
+        "Gosto de receber palavras de afirmação.": "A",
+        "Gosto de ser abraçado.": "E"
+    },
+    {
+        "Gosto de passar tempo a sós com alguém especial para mim.": "B",
+        "Sinto-me amado quando alguém me oferece ajuda prática.": "D"
+    },
+    {
+        "Gosto quando me dão presentes.": "C",
+        "Gosto de visitas sem pressa com amigos e entes queridos.": "B"
+    },
+    {
+        "Sinto-me amado quando as pessoas fazem coisas para ajudar-me.": "D",
+        "Sinto-me amado quando as pessoas me tocam.": "E"
+    },
+    {
+        "Sinto-me amado quando alguém que amo ou admiro me rodeia com o braço.": "E",
+        "Sinto-me amado quando recebo um presente de alguém que amo e admiro.": "C"
+    },
+    {
+        "Gosto de sair com amigos e entes queridos.": "B",
+        "Gosto de bater palma com palma ou ficar de mãos dadas com pessoas especiais para mim.": "E"
+    },
+    {
+        "Símbolos visíveis de amor (presentes) são muito importantes para mim.": "C",
+        "Sinto-me amado quando as pessoas me afirmam.": "A"
+    },
+    {
+        "Gosto de sentar perto das pessoas que aprecio.": "E",
+        "Gosto de que me digam que sou atraente/bonito.": "A"
+    },
+    {
+        "Gosto de passar tempo com amigos e entes queridos.": "B",
+        "Gosto de receber presentinhos de amigos e entes queridos.": "C"
+    },
+    {
+        "Palavras de aceitação são importantes para mim.": "A",
+        "Sei que alguém me ama quando ele ou ela me ajuda.": "D"
+    },
+    {
+        "Gosto de estar junto e fazer coisas com amigos e entes queridos.": "B",
+        "Gosto quando me dizem palavras bondosas.": "A"
+    },
+    {
+        "O que a pessoa faz me afeta mais que aquilo que ela diz.": "D",
+        "Os abraços me fazem sentir participante e apreciado.": "E"
+    },
+    {
+        "Aprecio o louvor e tento evitar as críticas.": "A",
+        "Vários presentes pequenos significam mais para mim que um grande.": "C"
+    },
+    {
+        "Sinto-me íntimo de alguém quando estamos conversando ou fazendo coisas juntos.": "B",
+        "Sinto-me mais perto dos amigos e entes queridos quando eles me tocam com frequência.": "E"
+    },
+    {
+        "Gosto de que as pessoas elogiem minhas realizações.": "A",
+        "Sei que as pessoas me amam quando fazem coisas para mim que por si mesmas não apreciariam.": "D"
+    },
+    {
+        "Gosto de ser tocado quando amigos e entes queridos passam perto de mim.": "E",
+        "Gosto quando as pessoas me ouvem e mostram interesse genuíno no que estou dizendo.": "B"
+    },
+    {
+        "Sinto-me amado quando amigos e entes queridos me ajudam nos trabalhos e projetos.": "D",
+        "Gosto realmente de receber presentes de amigos e entes queridos.": "C"
+    },
+    {
+        "Gosto que as pessoas elogiem minha aparência.": "A",
+        "Sinto-me amado quando as pessoas tomam tempo para entender meus sentimentos.": "B"
+    },
+    {
+        "Sinto-me seguro quando uma pessoa especial toca em mim.": "E",
+        "Atos de serviço fazem com que me sinta amado.": "D"
+    },
+    {
+        "Aprecio as muitas coisas que pessoas especiais fazem para mim.": "D",
+        "Gosto de receber presentes que pessoas especiais fazem para mim.": "C"
+    },
+    {
+        "Aprecio realmente o sentimento que tenho quando alguém me dá total atenção.": "B",
+        "Aprecio realmente o sentimento que tenho quando alguém me presta algum ato de serviço.": "D"
+    },
+    {
+        "Sinto-me amado quando uma pessoa comemora meu aniversário com um presente.": "C",
+        "Sinto-me amado quando uma pessoa comemora meu aniversário com palavras significativas.": "A"
+    },
+    {
+        "Sei o que a pessoa está pensando de mim quando me dá um presente.": "C",
+        "Sinto-me amado quando a pessoa me ajuda nas tarefas diárias.": "D"
+    },
+    {
+        "Aprecio quando alguém ouve com paciência e não me interrompe.": "B",
+        "Aprecio quando alguém se lembra de dias especiais com um presente.": "C"
+    },
+    {
+        "Gosto de saber que os entes queridos estão preocupados em ajudar-me nas tarefas diárias.": "D",
+        "Gosto de fazer viagens longas com alguém que é especial para mim.": "B"
+    },
+    {
+        "Gosto de beijar ou ser beijado por pessoas de minha intimidade.": "E",
+        "Receber um presente sem qualquer razão especial me deixa contente.": "C"
+    },
+    {
+        "Gosto que me digam que sou querido.": "A",
+        "Gosto que a pessoa olhe para mim enquanto falamos.": "B"
+    },
+    {
+        "Presentes de um amigo ou ente querido são sempre especiais para mim.": "C",
+        "Sinto-me bem quando um amigo ou ente querido me toca.": "E"
+    },
+    {
+        "Sinto-me amado quando alguém faz com entusiasmo o que pedi.": "D",
+        "Sinto-me amado quando dizem quanto me apreciam.": "A"
+    },
+    {
+        "Preciso ser tocado todos os dias.": "E",
+        "Preciso de palavras de afirmação todos os dias.": "A"
+    }
+]
+ 
